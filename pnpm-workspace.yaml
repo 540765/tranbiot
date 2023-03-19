@@ -1,0 +1,3 @@
+packages:
+  # 服务于项目的包
+  - internal/*
